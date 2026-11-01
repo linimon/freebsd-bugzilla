@@ -1,8 +1,8 @@
 NOTE: this is a Work In Progress as of 20261101.
 
-# What is freebsd/bugzilla?
+# What is freebsd/bugzilla-exp?
 
-freebsd/bugzilla is a set of changes and extensions for Bugzilla being used
+freebsd/bugzilla-exp is a set of changes and extensions for Bugzilla being used
 by the FreeBSD project. Those usually map a Bugzilla source package layout
 in a 1:1 fashion.
 
